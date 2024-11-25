@@ -1,0 +1,182 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\\u0428\u0410\u0413\\Unity\\Projects\\Mission Demolition\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9D740D84-8225-D13D-7AFE-D56E41FBB6BB}|Assembly-CSharp.csproj|d:\\\u0448\u0430\u0433\\unity\\projects\\mission demolition\\assets\\scripts\\missiondemolition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D740D84-8225-D13D-7AFE-D56E41FBB6BB}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\missiondemolition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D740D84-8225-D13D-7AFE-D56E41FBB6BB}|Assembly-CSharp.csproj|d:\\\u0448\u0430\u0433\\unity\\projects\\mission demolition\\assets\\scripts\\goal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D740D84-8225-D13D-7AFE-D56E41FBB6BB}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\goal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D740D84-8225-D13D-7AFE-D56E41FBB6BB}|Assembly-CSharp.csproj|D:\\\u0428\u0410\u0413\\Unity\\Projects\\Mission Demolition\\assets\\scripts\\projectileline.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D740D84-8225-D13D-7AFE-D56E41FBB6BB}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\projectileline.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D740D84-8225-D13D-7AFE-D56E41FBB6BB}|Assembly-CSharp.csproj|D:\\\u0428\u0410\u0413\\Unity\\Projects\\Mission Demolition\\assets\\scripts\\cloudcrafter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D740D84-8225-D13D-7AFE-D56E41FBB6BB}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\cloudcrafter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D740D84-8225-D13D-7AFE-D56E41FBB6BB}|Assembly-CSharp.csproj|D:\\\u0428\u0410\u0413\\Unity\\Projects\\Mission Demolition\\assets\\scripts\\cloud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D740D84-8225-D13D-7AFE-D56E41FBB6BB}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\cloud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D740D84-8225-D13D-7AFE-D56E41FBB6BB}|Assembly-CSharp.csproj|D:\\\u0428\u0410\u0413\\Unity\\Projects\\Mission Demolition\\assets\\scripts\\slingshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D740D84-8225-D13D-7AFE-D56E41FBB6BB}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\slingshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D740D84-8225-D13D-7AFE-D56E41FBB6BB}|Assembly-CSharp.csproj|D:\\\u0428\u0410\u0413\\Unity\\Projects\\Mission Demolition\\assets\\scripts\\followcam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D740D84-8225-D13D-7AFE-D56E41FBB6BB}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\followcam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D740D84-8225-D13D-7AFE-D56E41FBB6BB}|Assembly-CSharp.csproj|D:\\\u0428\u0410\u0413\\Unity\\Projects\\Mission Demolition\\assets\\scripts\\rigidbodysleep.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D740D84-8225-D13D-7AFE-D56E41FBB6BB}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\rigidbodysleep.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{fbcae063-e2c0-4ab1-a516-996ea3dafb72}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Goal.cs",
+              "DocumentMoniker": "D:\\\u0428\u0410\u0413\\Unity\\Projects\\Mission Demolition\\Assets\\Scripts\\Goal.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Goal.cs",
+              "ToolTip": "D:\\\u0428\u0410\u0413\\Unity\\Projects\\Mission Demolition\\Assets\\Scripts\\Goal.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Goal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T18:25:14.844Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProjectileLine.cs",
+              "DocumentMoniker": "D:\\\u0428\u0410\u0413\\Unity\\Projects\\Mission Demolition\\Assets\\Scripts\\ProjectileLine.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ProjectileLine.cs",
+              "ToolTip": "D:\\\u0428\u0410\u0413\\Unity\\Projects\\Mission Demolition\\Assets\\Scripts\\ProjectileLine.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ProjectileLine.cs",
+              "ViewState": "AgIAAGkAAAAAAAAAAAAmwHsAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T18:10:24.39Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MissionDemolition.cs",
+              "DocumentMoniker": "D:\\\u0428\u0410\u0413\\Unity\\Projects\\Mission Demolition\\Assets\\Scripts\\MissionDemolition.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\MissionDemolition.cs",
+              "ToolTip": "D:\\\u0428\u0410\u0413\\Unity\\Projects\\Mission Demolition\\Assets\\Scripts\\MissionDemolition.cs",
+              "RelativeToolTip": "Assets\\Scripts\\MissionDemolition.cs",
+              "ViewState": "AgIAAF8AAAAAAAAAAAAuwHIAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T17:36:54.871Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CloudCrafter.cs",
+              "DocumentMoniker": "D:\\\u0428\u0410\u0413\\Unity\\Projects\\Mission Demolition\\Assets\\Scripts\\CloudCrafter.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\CloudCrafter.cs",
+              "ToolTip": "D:\\\u0428\u0410\u0413\\Unity\\Projects\\Mission Demolition\\Assets\\Scripts\\CloudCrafter.cs",
+              "RelativeToolTip": "Assets\\Scripts\\CloudCrafter.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAgwDoAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T15:38:57.604Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Cloud.cs",
+              "DocumentMoniker": "D:\\\u0428\u0410\u0413\\Unity\\Projects\\Mission Demolition\\Assets\\Scripts\\Cloud.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Cloud.cs",
+              "ToolTip": "D:\\\u0428\u0410\u0413\\Unity\\Projects\\Mission Demolition\\Assets\\Scripts\\Cloud.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Cloud.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAgwDEAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T14:35:22.92Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Slingshot.cs",
+              "DocumentMoniker": "D:\\\u0428\u0410\u0413\\Unity\\Projects\\Mission Demolition\\Assets\\Scripts\\Slingshot.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Slingshot.cs",
+              "ToolTip": "D:\\\u0428\u0410\u0413\\Unity\\Projects\\Mission Demolition\\Assets\\Scripts\\Slingshot.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Slingshot.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAcwFEAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T12:02:22.55Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "RigidbodySleep.cs",
+              "DocumentMoniker": "D:\\\u0428\u0410\u0413\\Unity\\Projects\\Mission Demolition\\Assets\\Scripts\\RigidbodySleep.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\RigidbodySleep.cs",
+              "ToolTip": "D:\\\u0428\u0410\u0413\\Unity\\Projects\\Mission Demolition\\Assets\\Scripts\\RigidbodySleep.cs",
+              "RelativeToolTip": "Assets\\Scripts\\RigidbodySleep.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T16:45:27.828Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FollowCam.cs",
+              "DocumentMoniker": "D:\\\u0428\u0410\u0413\\Unity\\Projects\\Mission Demolition\\Assets\\Scripts\\FollowCam.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\FollowCam.cs",
+              "ToolTip": "D:\\\u0428\u0410\u0413\\Unity\\Projects\\Mission Demolition\\Assets\\Scripts\\FollowCam.cs",
+              "RelativeToolTip": "Assets\\Scripts\\FollowCam.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAQwCMAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T14:10:14.377Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
